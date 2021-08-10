@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hisorange" alt="hisorange" /> </p>
 
-- 🔭 I’m currently working on [Artgen](https://github.com/artgenio)
+- 🔭 I’m currently working on [Artgen](https://github.com/hisorange/artgen)
 
-- 🌱 I’m currently learning **Rust, DSL, FP**
+- 🌱 I’m currently learning **Rust, Python, DSL, FP**
 
 - 👨‍💻 My introduction page at [https://hisorange.me](https://hisorange.me)
 
