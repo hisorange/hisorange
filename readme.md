@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Artgen](https://github.com/artgenio/artgen)
+- 🔭 I’m currently working on [Artgen](https://github.com/artgenio/core)
 
 - 🌱 I’m currently learning **Rust, Python, DSL, FP**
 
