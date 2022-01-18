@@ -2,16 +2,17 @@
 <h3 align="center">WebArtisan since ~2003</h3>
 
 
-
 - 🔭 I’m currently working on [Artgen](https://github.com/artgenio/core)
 
 - 🌱 I’m currently learning **Rust, Python, DSL, FP**
 
 - 👨‍💻 My introduction page at [https://hisorange.me](https://hisorange.me)
+- 
+- 📝 My Tech / Product Blog [https://blog.artgen.io](https://blog.artgen.io)
 
 - 💬 Ask me about **Anything :D**
 
-- 📫 How to reach me **hello@hisorange.me**
+- 📫 How to reach me **github@hisorange.me**
 
 - ⚡ Fun fact **I love llamas <3**
 
