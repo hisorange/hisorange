@@ -23,7 +23,7 @@
 <a href="https://medium.com/hisorange" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="hisorange" height="30" width="40" /></a>
 </p>
 <hr />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hisorange&layout=compact" alt="hisorange" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=hisorange&count_private=true&show_icons=true" alt="hisorange" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hisorange&layout=compact&count_private=true&langs_count=10" alt="hisorange" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=hisorange&count_private=true&show_icons=true" alt="hisorange" /></p>
 
 <hr />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hisorange" alt="hisorange" /> </p>
